@@ -10,3 +10,6 @@ print(merge_message_2)
 
 merge_message_2 = "this message is in the feature2 branch, we will test out how merge conflit resolves"
 print(merge_message_2)
+
+merge_message_3 = "this message is from feature2 branch. to test out rebase"
+print(merge_message_3)
