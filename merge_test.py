@@ -4,3 +4,6 @@ def print_message():
     print(merge_message)
 
 print_message()
+
+merge_message_2 = "this message is in the feature2 branch, we will test out how merge conflit resolves"
+print(merge_message_2)
